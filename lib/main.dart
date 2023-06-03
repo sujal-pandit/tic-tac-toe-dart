@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:tic_tac_toe_flutter/intropage.dart';
 
-import 'home_page.dart';
-
 void main() {
   runApp(MyApp());
 }
