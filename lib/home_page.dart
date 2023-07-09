@@ -213,6 +213,7 @@ class _HomePageState extends State<HomePage> {
 
   void showWinner(String winner) {
     showDialog(
+        barrierDismissible: false,
         context: context,
         builder: (context) {
           return AlertDialog(
@@ -243,6 +244,7 @@ class _HomePageState extends State<HomePage> {
 
   void drawDialog() {
     showDialog(
+        barrierDismissible: false,
         context: context,
         builder: (context) {
           return AlertDialog(
