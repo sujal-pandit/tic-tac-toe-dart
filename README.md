@@ -1,17 +1,6 @@
-# tic_tac_toe_flutter
+Tic Tac Toe game coded in dart using flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tic-tac-toe-dart
+<img src="https://github.com/sujal-pandit/tic-tac-toe-dart/assets/118412204/c4085567-7217-4548-bede-18f98b11f123" width=393 height=852>
+<img src="https://github.com/sujal-pandit/tic-tac-toe-dart/assets/118412204/99a8aeaf-c8c3-4b04-8ddc-f2098364e8e7" width=393 height=852>
+<img src="https://github.com/sujal-pandit/tic-tac-toe-dart/assets/118412204/14e2cac1-b8a3-44b9-ad4c-806c89222b33" width=393 height=852>
+<img src="https://github.com/sujal-pandit/tic-tac-toe-dart/assets/118412204/07a73e0f-2d7a-410d-8e4f-27654c3e59db" width=393 height=852>
